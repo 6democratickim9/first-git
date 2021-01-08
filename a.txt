@@ -1,1 +1,12 @@
 깃 연습하기
+
+파란 글씨가 떴을 때는 :wq 누르기
+git status
+git add--> git commit -m "update"
+jjgfdshfkshdajsdfasdfjkasdhkf
+fKJHFhdsfhkdsjfhkjdsf
+jgsfkjsdhfkHDKDHsda
+FLHDFLKJHDFLKJHLdskfj
+fdhkdshfSDHFLKjdshkdshfl
+fhLSHDFKHdkhsfjLSDF
+fhldshfkjHSFKjdsh
